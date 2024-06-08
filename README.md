@@ -10,6 +10,6 @@
 
 ## Технологии и инструменты
 
-- **Языки программирования:** ```TypeScript, JavaScript```
-- **Фреймворки и библиотеки:** NestJS, ExpressJs, React
-- **Инструменты разработки:** Git, WebStorm, `(ChatGPT, Google.com, Google Chrome, YouTube)`.
+- **Языки программирования:** `TypeScript`, `JavaScript`
+- **Фреймворки и библиотеки:** `NestJS`, `ExpressJs`, `React`
+- **Инструменты разработки:** Git, `WebStorm`, (ChatGPT, Google.com, Google Chrome, YouTube).
