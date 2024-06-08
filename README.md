@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**Beyelon03/Beyelon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Артём, 22 года, Junior Backend Web Developer.
 
-Here are some ideas to get you started:
+## Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Имею опыт работы с ExpressJs и TypeScript, React.
+- 🚀 Активно изучаю NestJS и стремлюсь углубить свои знания и навыки в области бэкенд-разработки.
+- 📚 Всегда открыт для новых проектов и сотрудничества!
+
+## Технологии и инструменты
+
+- **Языки программирования:** TypeScript, JavaScript
+- **Фреймворки и библиотеки:** NestJS, ExpressJs, React
+- **Инструменты разработки:** Git, WebStorm, ChatGPT, Google.com.
